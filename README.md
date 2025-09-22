@@ -22,4 +22,7 @@ Bocobo – User interface formatting
 Mortel – Error Handling and Testing the code
 
 
-
+Setup: 
+1. Install Python (https://www.python.org)
+2. Open the App in your chosen IDE (preferably VS Code)
+3. Run the App. 
